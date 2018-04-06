@@ -18,5 +18,7 @@ public class TelevisiAksi3 {
         Tiki.Kelebihan="Remote";
         Tiki.Harga=450000000;
         Tiki.Listrik="90 Watt";
+        
+        Tiki.cetakInfo();
     }
 }
