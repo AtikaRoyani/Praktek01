@@ -12,5 +12,11 @@ package praktek01;
 public class TelevisiAksi3 {
     public static void main(String[] args) {
         Televisi Tiki = new Televisi();
+        
+        Tiki.Layar="Cembung";
+        Tiki.Merk="Sony";
+        Tiki.Kelebihan="Remote";
+        Tiki.Harga=450000000;
+        Tiki.Listrik="90 Watt";
     }
 }
