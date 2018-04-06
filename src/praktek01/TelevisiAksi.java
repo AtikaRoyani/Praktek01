@@ -18,5 +18,7 @@ public class TelevisiAksi {
         Tika.Kelebihan="Touchscreen";
         Tika.Harga=25000000;
         Tika.Listrik="70 Watt";
+        
+        Tika.cetakInfo();
     }
 }
