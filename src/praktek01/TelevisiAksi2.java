@@ -11,6 +11,6 @@ package praktek01;
  */
 public class TelevisiAksi2 {
     public static void main(String[] args) {
-        
+        Televisi Tiko = new Televisi();
     }
 }
