@@ -10,5 +10,18 @@ package praktek01;
  * @author username
  */
 public class Televisi {
+    String Layar;
+    String Merk;
+    String Kelebihan;
+    double Harga;
+    String Listrik;
+    
+    void cetakInfo(){
+        System.out.println("Layar     :"+Layar);
+        System.out.println("Merk      :"+Merk);
+        System.out.println("Kelebihan :"+Kelebihan);
+        System.out.println("Harga     :"+Harga);
+        System.out.println("Listrik   :"+Listrik);
+    }
     
 }
